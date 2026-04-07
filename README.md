@@ -1,7 +1,11 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Richer Gomez
+
+Ing. en Sistemas | Mecatronico | Lic. IA & Robotica , ej: Especialista en automatizacion | Apasionado por el código limpio
+
+📍 San Lorenzo, Paraguay | 📅 20 años de experiencia | 💼 Disponibilidad: Buscando oportunidades/Open to work
 
 <!--
-**rgomez85/rgomez85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rgomez85/rgomez85** is a ✨ _special_ ✨ repository because its `REME.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
